@@ -1,0 +1,40 @@
+.main-container {
+    height: 100%;
+    width: 100%;
+    background-color: rgb(255, 246, 221);
+    display: flex;
+    gap: 100px;
+    align-items: center;
+    margin-top: 12px;
+
+    /* background-image: url('img/background-img5.jpeg'); */
+}
+
+
+.main-container-para {
+    font-size: x-large;
+    color: rgb(90, 8, 8);
+}
+
+.main-image {
+    padding: 5px;
+    margin: 5px;
+    border: 1px solid black;
+}
+
+.footer {
+    height: 30px;
+    width: 100%;
+    background-color: rgb(221, 198, 134);
+    color: bisque;
+    display: flex;
+    gap: 100px;
+    align-items: center;
+    margin-top: 12px;
+}
+
+.social-links {
+    display: flex;
+    margin-left: 660px;
+
+}

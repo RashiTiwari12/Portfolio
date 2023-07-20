@@ -1,0 +1,36 @@
+.project-container {
+    height: 100%;
+    width: 100%;
+    background-color: rgb(255, 246, 221);
+    display: flex;
+    gap: 70px;
+    align-items: center;
+    margin-top: 12px;
+    padding: 5px;
+
+    box-shadow: 3px 4px 4px rgb(131, 131, 10)
+}
+
+.right-section {
+    /* background-color: blue; */
+}
+
+.left-section {
+    color: brown;
+    height: 50%;
+    width: 50%;
+}
+
+.left-section>h1 {
+    color: rgb(24, 8, 8);
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+.main-image {
+    width: 500px;
+    height: 350px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: -2px 2px 6px 4px rgb(63, 89, 102)
+}
